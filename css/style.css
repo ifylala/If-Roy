@@ -152,6 +152,12 @@ h3.sub-head-w3-agileits {
     text-align: center;
     margin-bottom: 30px;
 }
+h4.sub-head-w3-agileits {
+    font-size: 17px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #fff;
+}
 input[type="email"] {
     background: rgba(0, 0, 0, 0.55) url(../images/email.png) no-repeat 10px 10px;
     background-size: 30px;
